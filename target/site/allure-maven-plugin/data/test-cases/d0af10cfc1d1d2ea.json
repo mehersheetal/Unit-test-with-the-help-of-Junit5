@@ -1,0 +1,55 @@
+{
+  "uid" : "d0af10cfc1d1d2ea",
+  "name" : "testGetTitle()",
+  "fullName" : "com.jensen.BookTest.testGetTitle",
+  "historyId" : "97653ba0aa792f344e3a0fda524420cb",
+  "time" : {
+    "start" : 1638539254650,
+    "stop" : 1638539254720,
+    "duration" : 70
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-8P0SLS0"
+  }, {
+    "name" : "thread",
+    "value" : "19368@DESKTOP-8P0SLS0.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.jensen.BookTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.jensen.BookTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testGetTitle"
+  }, {
+    "name" : "suite",
+    "value" : "com.jensen.BookTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0af10cfc1d1d2ea.json",
+  "parameterValues" : [ ]
+}

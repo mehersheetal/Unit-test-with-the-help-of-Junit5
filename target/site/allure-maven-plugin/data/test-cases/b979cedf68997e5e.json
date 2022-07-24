@@ -1,0 +1,55 @@
+{
+  "uid" : "b979cedf68997e5e",
+  "name" : "testMinusNumbers()",
+  "fullName" : "com.jensen.Calculator2Test.testMinusNumbers",
+  "historyId" : "8ff42625c4aff4c7cd7256e32bf3d60",
+  "time" : {
+    "start" : 1638539255063,
+    "stop" : 1638539255089,
+    "duration" : 26
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-8P0SLS0"
+  }, {
+    "name" : "thread",
+    "value" : "19368@DESKTOP-8P0SLS0.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.jensen.Calculator2Test"
+  }, {
+    "name" : "testClass",
+    "value" : "com.jensen.Calculator2Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testMinusNumbers"
+  }, {
+    "name" : "suite",
+    "value" : "com.jensen.Calculator2Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b979cedf68997e5e.json",
+  "parameterValues" : [ ]
+}

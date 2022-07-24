@@ -1,0 +1,55 @@
+{
+  "uid" : "528234b531200119",
+  "name" : "test2()",
+  "fullName" : "com.jensen.CupTest.test2",
+  "historyId" : "1fbf18ec06e6b1e7e5789ab423673b59",
+  "time" : {
+    "start" : 1638539255416,
+    "stop" : 1638539255417,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-8P0SLS0"
+  }, {
+    "name" : "thread",
+    "value" : "19368@DESKTOP-8P0SLS0.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.jensen.CupTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.jensen.CupTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "test2"
+  }, {
+    "name" : "suite",
+    "value" : "com.jensen.CupTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "528234b531200119.json",
+  "parameterValues" : [ ]
+}

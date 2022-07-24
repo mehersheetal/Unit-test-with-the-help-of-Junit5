@@ -1,0 +1,65 @@
+{
+  "uid" : "b482f71d56e111c4",
+  "name" : "testSetLiquidType()",
+  "fullName" : "com.jensen.CupTest.testSetLiquidType",
+  "historyId" : "4acead794ddeefc15b561074fe214339",
+  "time" : {
+    "start" : 1638539620019,
+    "stop" : 1638539620020,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-8P0SLS0"
+  }, {
+    "name" : "thread",
+    "value" : "3528@DESKTOP-8P0SLS0.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.jensen.CupTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.jensen.CupTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testSetLiquidType"
+  }, {
+    "name" : "suite",
+    "value" : "com.jensen.CupTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "62f5e5ffdec38abd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638539255447,
+        "stop" : 1638539255448,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b482f71d56e111c4.json",
+  "parameterValues" : [ ]
+}

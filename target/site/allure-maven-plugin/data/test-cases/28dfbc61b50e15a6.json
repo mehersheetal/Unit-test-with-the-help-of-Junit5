@@ -1,0 +1,55 @@
+{
+  "uid" : "28dfbc61b50e15a6",
+  "name" : "testAddTwoNumbers()",
+  "fullName" : "com.jensen.Calculator2Test.testAddTwoNumbers",
+  "historyId" : "b52fca40d7a0d81c1c4f7f9f439af390",
+  "time" : {
+    "start" : 1638539255206,
+    "stop" : 1638539255209,
+    "duration" : 3
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-8P0SLS0"
+  }, {
+    "name" : "thread",
+    "value" : "19368@DESKTOP-8P0SLS0.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.jensen.Calculator2Test"
+  }, {
+    "name" : "testClass",
+    "value" : "com.jensen.Calculator2Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testAddTwoNumbers"
+  }, {
+    "name" : "suite",
+    "value" : "com.jensen.Calculator2Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28dfbc61b50e15a6.json",
+  "parameterValues" : [ ]
+}

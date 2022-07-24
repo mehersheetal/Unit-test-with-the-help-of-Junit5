@@ -1,0 +1,191 @@
+[ {
+  "uid" : "9226e49a0b4b15c7",
+  "name" : "testSetAuthor()",
+  "time" : {
+    "start" : 1638539619365,
+    "stop" : 1638539619368,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3feebca2fe336ddd",
+  "name" : "test2()",
+  "time" : {
+    "start" : 1638539619979,
+    "stop" : 1638539619980,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd10ecfbb23a5608",
+  "name" : "testMinusNumbers()",
+  "time" : {
+    "start" : 1638539619440,
+    "stop" : 1638539619631,
+    "duration" : 191
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "148df1b13b330043",
+  "name" : "testSetAndGetSecondValue()",
+  "time" : {
+    "start" : 1638539619792,
+    "stop" : 1638539619807,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28ad13cd93468709",
+  "name" : "testSetTitle()",
+  "time" : {
+    "start" : 1638539619395,
+    "stop" : 1638539619396,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8bb83cedab3c873",
+  "name" : "testDivideNumbers()",
+  "time" : {
+    "start" : 1638539619763,
+    "stop" : 1638539619765,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72e288450f750dbf",
+  "name" : "testSetAndGetFirstValue()",
+  "time" : {
+    "start" : 1638539619825,
+    "stop" : 1638539619828,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c64f71a33b5c354c",
+  "name" : "testAddTwoNumbers()",
+  "time" : {
+    "start" : 1638539619730,
+    "stop" : 1638539619737,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cbf34f9ed60f5b09",
+  "name" : "testGetTitle()",
+  "time" : {
+    "start" : 1638539617989,
+    "stop" : 1638539618257,
+    "duration" : 268
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f72d184bd0e6911",
+  "name" : "testDivide()",
+  "time" : {
+    "start" : 1638539619840,
+    "stop" : 1638539619848,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d67f167ea838bdca",
+  "name" : "test3()",
+  "time" : {
+    "start" : 1638539619996,
+    "stop" : 1638539619997,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4194634c84161989",
+  "name" : "test1()",
+  "time" : {
+    "start" : 1638539619967,
+    "stop" : 1638539619970,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38ff20cbd2c83dae",
+  "name" : "testObjectCreation()",
+  "time" : {
+    "start" : 1638539619927,
+    "stop" : 1638539619931,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "700da046c026c2ed",
+  "name" : "testSetPages()",
+  "time" : {
+    "start" : 1638539619387,
+    "stop" : 1638539619388,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c31d2da451a34d4f",
+  "name" : "testObjectCreationAssertAll()",
+  "time" : {
+    "start" : 1638539619954,
+    "stop" : 1638539619962,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc955b6fb55159c0",
+  "name" : "test4()",
+  "time" : {
+    "start" : 1638539620003,
+    "stop" : 1638539620004,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6dcd97345207b688",
+  "name" : "testPercentageThrows()",
+  "time" : {
+    "start" : 1638539619910,
+    "stop" : 1638539619920,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "761495df2c538996",
+  "name" : "testBookAuthor()",
+  "time" : {
+    "start" : 1638539619377,
+    "stop" : 1638539619379,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b482f71d56e111c4",
+  "name" : "testSetLiquidType()",
+  "time" : {
+    "start" : 1638539620019,
+    "stop" : 1638539620020,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
